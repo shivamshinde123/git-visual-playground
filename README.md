@@ -2,6 +2,8 @@
 
 An interactive, visual Git learning tool that makes understanding Git concepts fun and intuitive! Built with React, this playground lets you experiment with Git operations in a safe, visual environment.
 
+![Git Visual Playground Screenshot](frontend_app.png)
+
 ## 🎯 Motivation
 
 Learning Git can be intimidating with its command-line interface and abstract concepts. This visual playground was created to make Git learning:
