@@ -84,14 +84,12 @@ export const useGitState = () => {
       setRemoteCommits(prev => [...prev, newCommit]);
       setRemoteBranches(prev => ({ ...prev, [headState]: newCommitId }));
       setRemoteStagingArea([]);
-      setRemoteWorkingDirectory([]);
       setRemoteCommitCounter(prev => prev + 1);
       setRemoteCommitMessage('');
     } else {
       setCommits(prev => [...prev, newCommit]);
       setBranches(prev => ({ ...prev, [headState]: newCommitId }));
       setStagingArea([]);
-      setWorkingDirectory([]);
       setCommitCounter(prev => prev + 1);
       setCommitMessage('');
     }
