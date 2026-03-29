@@ -4,6 +4,10 @@ An interactive, visual Git learning tool that makes understanding Git concepts f
 
 ![Git Visual Playground Screenshot](frontend_app.png)
 
+## Detailed Documentation
+
+[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/shivamshinde123/git-visual-playground)
+
 ## 🎯 Motivation
 
 Learning Git can be intimidating with its command-line interface and abstract concepts. This visual playground was created to make Git learning:
